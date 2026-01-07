@@ -1,0 +1,3 @@
+export enum MotivoSaida{
+    VENDA='VENDA', CONSUMO='CONSUMO', PERDA='PERDA', AJUSTE='AJUSTE', RESERVA='RESERVA'
+}

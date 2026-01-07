@@ -1,4 +1,4 @@
-import { Produto } from "./produto";
+import { Produto } from "./produto.model";
 import { Fornecedor } from "./fornecedor.model";
 import { LocalArmazenamento } from "./local-armazenamento.model";
 

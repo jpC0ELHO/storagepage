@@ -1,9 +1,10 @@
-import { DocumentoTipo } from "./documento-tipo.model";
 import { Contato } from "./contato.model";
+import { DocumentoTipo } from "./documento-tipo.model";
 import { Endereco } from "./endereco.model";
-export interface Fornecedor{
+
+export interface Cliente{
     nome:string;
-    domento_tipo:DocumentoTipo;
+    documento_tipo:DocumentoTipo;
     numero_documento:number;
     contato:Contato;
     endereco:Endereco;
