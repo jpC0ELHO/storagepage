@@ -1,0 +1,15 @@
+export enum LocalArmazenamento{
+    DEPOSITO='DEPOSITO',
+    RUA='RUA',
+    PREDIO='PREDIO',
+    NIVEL='NIVEL',
+    POSICAO='POSICAO',
+    ANDAR='ANDAR',
+    PRATILEIRA='PRATILEIRA',
+    CONTEINER='CONTEINER',
+    CAMINHAO='CAMINHAO',
+    CARRO='CARRO',
+    ROTA='ROTA',
+    LOJA='LOJA',
+    CD='CD'
+}
